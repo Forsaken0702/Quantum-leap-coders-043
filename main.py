@@ -5,6 +5,10 @@ import preprocessor
 # Main script
 df = pd.read_csv('Big_Black_Money_Dataset.csv')
 
+# Adding an Image
+image_url = "Black Money Transactions Analysis.png"
+st.sidebar.image(image_url)
+
 # Sidebar Filters
 selected_country, selected_transaction_types, amount_range = preprocessor.sidebar_filters(df)
 
