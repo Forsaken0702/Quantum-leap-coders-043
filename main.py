@@ -6,7 +6,7 @@ import preprocessor
 df = pd.read_csv('Big_Black_Money_Dataset.csv')
 
 # Adding an Image
-image_url = "Black Money Transactions Analysis.png"
+image_url = "https://github.com/Forsaken0702/Quantum-leap-coders-043/blob/main/Black%20Money%20Transactions%20Analysis.jpg"
 st.sidebar.image(image_url)
 
 # Sidebar Filters
