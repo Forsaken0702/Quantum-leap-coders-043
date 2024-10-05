@@ -9,3 +9,4 @@ plotly==5.17.0
 
 # Building Streamlit app
 streamlit==1.25.0
+pillow==9.4.0
