@@ -1,11 +1,7 @@
-# Data manipulation and numerical operations
-pandas==2.1.1
-numpy==1.24.4
 
-# Data visualization
+pandas==2.1.1
+streamlit>=1.25.0
+numpy>=1.25.0
 matplotlib==3.8.0
 seaborn==0.12.2
 plotly==5.17.0
-
-# Building Streamlit app
-streamlit==1.25.0
