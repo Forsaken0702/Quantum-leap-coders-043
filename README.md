@@ -39,19 +39,6 @@
 - *Framework:* Streamlit
 
 
-## 📂 Folder Structure
-
-
-BlackMoneyAnalysis/
-├── data/                # Sample datasets
-├── src/                 # Source code
-│   ├── main.py           # Streamlit application
-│   ├── big_black_money_dataset.csv # Data file
-│   ├── eda on global black money.py           # EDA utilities
-│   ├── preprocessor.py # Visualization functions
-├── requirements.txt     # Python dependencies
-├── README.md            # Project documentation
-
 ## 📊 Sample Insights
 
 - High-value transactions often occur during specific hours, raising red flags.  
